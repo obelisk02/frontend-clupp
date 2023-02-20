@@ -1,5 +1,5 @@
 # Clupp- prueba tecnica
-- LIVE: https://clupp-tecnica.web.app/
+- LIVE: https://clupp-tecnica.firebaseapp.com/
 ## Run project : 
 - npm i 
 - Start: npm run start
