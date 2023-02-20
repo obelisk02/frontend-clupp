@@ -2,7 +2,6 @@
 
 ## Run project : 
 - npm i 
-- Developer: npm run dev
 - Start: npm run start
 
 ```sh
